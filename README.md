@@ -2,7 +2,7 @@
 - 👀 I’m a tech enthusiast.
 - 🌱 I’m currently learning Web Dev.
 - 💞️ I’m looking to collaborate on Python GUIs and Web projects.
-- 📫 How to reach me ds450974@gmail.com
+- 📫 How to reach me
 
 <!---
 Dev7083/Dev7083 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
