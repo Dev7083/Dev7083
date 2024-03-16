@@ -29,10 +29,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dev7083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev7083" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/dev7083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev7083" height="30" width="40" /></a> -->
 <a href="https://twitter.com/geekydev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekydev_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devendra-singh-08b613254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra-singh-08b613254" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20587126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20587126" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/20587126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20587126" height="30" width="40" /></a> -->
 <a href="https://instagram.com/rajputaashu25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajputaashu25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ds450974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ds450974" height="30" width="40" /></a>
 </p>
