@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devendra Singh</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">A passionate aspiring full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7083&label=Profile%20views&color=0e75b6&style=flat" alt="dev7083" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/geekydev_" target="blank"><img src="https://img.shields.io/twitter/follow/geekydev_?logo=twitter&style=for-the-badge" alt="geekydev_" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Downloader](https://github.com/Dev7083/Youtube-Downloader)
+- 🔭 I’m currently working on [Placemantra](https://github.com/Dev7083/placemantra)
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev7083](https://github.com/Dev7083)
 
-- 📝 I regularly write articles on [https://github.com/Dev7083/KernelHookers](https://github.com/Dev7083/KernelHookers)
+<!-- - 📝 I regularly write articles on [https://github.com/Dev7083/KernelHookers](https://github.com/Dev7083/KernelHookers) -->
 
 - 💬 Ask me about **React, JS, Python GUIs**
 
@@ -43,7 +43,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Dev7083"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dev7083" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev7083&show_icons=true&locale=en&layout=compact" alt="dev7083" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev7083&show_icons=true&locale=en&layout=compact" alt="dev7083"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev7083&show_icons=true&locale=en" alt="dev7083" /></p>
 
