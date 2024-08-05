@@ -26,6 +26,8 @@
 - ⚡ Fun fact **I eat a lot while coding. 😂**
 
 <h3 align="left">Connect with me:</h3>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="devendra-singh-08b613254" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/devendra-singh-08b613254?trk=profile-badge">Devendra Singh</a></div>
+              
 <p align="left">
 <!-- <a href="https://codepen.io/dev7083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev7083" height="30" width="40" /></a> -->
 <a href="https://twitter.com/geekydev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekydev_" height="30" width="40" /></a>
@@ -52,3 +54,5 @@
 Dev7083/Dev7083 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
