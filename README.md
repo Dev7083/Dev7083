@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/geekydev_" target="blank"><img src="https://img.shields.io/twitter/follow/geekydev_?logo=twitter&style=for-the-badge" alt="geekydev_" /></a> </p>
 
-- 🔭 I’m currently working on [Placemantra](https://github.com/Dev7083/placemantra)
+- 🔭 I’m currently working on [Pacify](https://github.com/Dev7083/pacify)
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on [Shoe Billing Software](https://github.com/Dev7083/SHOE-SALES-MANAGEMENT-SOFTWARE)
-
-- 🤝 I’m looking for help with [Spotify Clone](https://github.com/Dev7083/Spotify-Clone)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev7083](https://github.com/Dev7083)
 
@@ -21,7 +19,7 @@
 
 - 💬 Ask me about **React, JS, Python GUIs**
 
-- 📫 How to reach me **ds450974@gmail.com**
+- 📫 Reach me at **ds450974@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/devendra-singh-08b613254/](https://www.linkedin.com/in/devendra-singh-08b613254/)
 
