@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Devendra Singh</h1>
+<h1 align="center">Hi 👋, I'm Devendra Singh</h1>
 <h3 align="center">A passionate aspiring full stack developer & AI/ML enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7083&label=Profile%20views&color=0e75b6&style=flat" alt="dev7083" /> </p>
